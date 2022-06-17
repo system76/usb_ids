@@ -10,3 +10,4 @@ System76 has VID `0x3384`. PIDs are allocated sequentially.
 | `0x0003` | launch USB 2 Hub | https://github.com/system76/launch    |
 | `0x0004` | launch USB 3 Hub | https://github.com/system76/launch    |
 | `0x0005` | launch_lite_1    | https://github.com/system76/launch    |
+| `0x0006` | launch_2         | https://github.com/system76/launch    |
