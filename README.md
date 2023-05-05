@@ -13,3 +13,5 @@ System76 has VID `0x3384`. PIDs are allocated sequentially.
 | `0x0006` | launch_2              | https://github.com/system76/launch         |
 | `0x0007` | launch_heavy_1        | https://github.com/system76/launch         |
 | `0x0008` | virgo_keyboard_test_1 | https://github.com/system76/virgo-hardware |
+| `0x0009` | launch_3              | https://github.com/system76/launch         |
+| `0x000A` | launch_heavy_3        | https://github.com/system76/launch         |
